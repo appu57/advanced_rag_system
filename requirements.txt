@@ -1,0 +1,7 @@
+ipykernel
+pip
+langchain
+langchain_core
+langchain_community
+langgraph
+scikit-learn
